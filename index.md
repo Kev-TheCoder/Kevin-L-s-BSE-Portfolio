@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
 
-[![First Milestone](http://img.youtube.com/vi/watch?v=xq-7jg8sWTU/0.jpg)]([[https://www.youtube.com/watch?v=CaCazFBhYKs](https://www.youtube.com/watch?v=xq-7jg8sWTU&t=1s)](https://www.youtube.com/watch?v=xq-7jg8sWTU) "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](http://img.youtube.com/vi/watch?v=xq-7jg8sWTU/0.jpg)]{:target="_blank" rel="noopener"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xq-7jg8sWTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
