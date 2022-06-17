@@ -21,6 +21,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up the VNC viewer, raspberry pi, and running my first model on VNC viewer. In order to run my first model, I had to set up tensorflow lite, a smaller version of tensorflow. Even though those two softwares were relatively similar, I had to adjust a lot of the applications towards tensorflow lite since raspberry pi no longer supports tensorflow. This gave me a lot of trouble setting up the first model but I succeeded. I took a pretrained model that was available from tensorflow.org and downloaded/imported the files into my VNC viewer. I also had to adjust code in the given pretrained model since it was adapted to tensorflow instead of tensorflow lite. As this was a pretrained model, the outputs were already predetermined but it marked the success and functionality of my application. I had many struggles during this time as all of these were new concepts to me but I had developed a working prototype. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xq-7jg8sWTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/xq-7jg8sWTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
