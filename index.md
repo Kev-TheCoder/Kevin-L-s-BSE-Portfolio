@@ -3,7 +3,7 @@ This application uses AI, or machine learning, and tensorflow lite along with ne
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Li | Dublin High School | Computer Science | Incoming Junior
+| Kevin L | Dublin High School | Computer Science | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
