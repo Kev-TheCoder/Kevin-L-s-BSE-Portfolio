@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # Second Milestone
 
-My second milestone was creating my first custom model. I downloaded different softwares to create the environment for my custom model to be coded, trained, and executed. The model that I created was classifying whether the image was a fruit or a vegetable. During this milestone, I also created a fruit classification model which could tell what type of fruit the given image was. Even though these were two seperate models, they both had the same concepts which interwined that helped me develop both of these models. I had a lot of trouble during this milestone, for example: setting up the environment, importing libraries and files, as well as some syntax errors. 
+My second milestone was creating my first custom model. I downloaded different softwares to create the environment for my custom model to be coded, trained, and executed. The model that I created was classifying whether the image was a fruit or a vegetable. During this milestone, I also created a fruit classification model which could tell what type of fruit the given image was. Even though these were two seperate models, they both had the same concepts which interwined that helped me develop both of these models. I had a lot of trouble during this milestone, for example: setting up the environment, importing libraries and files, as well as some syntax errors. Also, I used tensorflow to develop both of these models as I had trouble running tensorflow lite. I plan to transfer these models into tensorflow lite which then I can use it in the VNC viewer.  
 
 
 # First Milestone
