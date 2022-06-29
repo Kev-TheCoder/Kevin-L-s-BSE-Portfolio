@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Image Recognition
-This application uses AI, or machine learning, and tensorflow lite along with neural networks to categorize and/or classify any given image. 
+This application uses AI, or machine learning, and both tensorflow and tensorflow lite along with neural networks to categorize and/or classify any given image. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -8,9 +8,9 @@ This application uses AI, or machine learning, and tensorflow lite along with ne
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is modifing my environment to be more applicable for the viewing audience, renaming files according to the classification using for loop, and providing the outcomes(probability) of each classification. My original goal of this milestone was to transfer my model to tensorflow lite which was unsuccessful as I encountered many errors. To save time and resources, I continued to use my environment, jupyter notebook, as my place to present my model and programmed the additional features: renaming files and the outcomes. Renaming files was a moderate task because the logic behind it was relatively simple but caused multiple errors, which one of them being that the file already existed. I was able to correct this error by writing a psudo-code, thinking on what needs to happen and the order. This became a success as files were being written correctly without errors. The outcomes was a moderate task as well because I had coded this eariler in a testing model while developing this current model. However, the outputs of this weren't the ideal predicitons I wanted which resulted in debugging and retraining.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="800" height="450" src="https://www.youtube.com/embed/-L5Gj5mpwqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 
