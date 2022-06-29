@@ -5,7 +5,7 @@ This application uses AI, or machine learning, and both tensorflow and tensorflo
 |:--:|:--:|:--:|:--:|
 | Kevin L | Dublin High School | Computer Science | Incoming Junior
 
-#Code
+# Code
 
 ```py
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
