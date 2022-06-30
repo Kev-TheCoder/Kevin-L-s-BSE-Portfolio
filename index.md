@@ -7,6 +7,13 @@ This application uses AI, or machine learning, and both tensorflow and tensorflo
 
 # Software Requirement
 
+- Jupyter Notebook V6.4.11
+- Tensorflow V2.9.1
+- Numpy V1.21.6
+- Opencv-python V1.21.6
+- Scipy V1.7.3
+- Matplotlib
+
 # Code
 
 ```py
