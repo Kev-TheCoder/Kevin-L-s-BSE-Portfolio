@@ -10,6 +10,7 @@ This application uses AI, or machine learning, and both tensorflow and tensorflo
 - VNC Viewer
 - PUTTY
 - Micro SD card
+- Python 3
 
 Note: The following below is used in the code presented below
 - Jupyter Notebook V6.4.11
