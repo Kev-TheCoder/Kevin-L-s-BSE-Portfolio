@@ -18,6 +18,7 @@ Note: The following below is used in the code presented below
 - Opencv-python V4.6.0.66
 - Scipy V1.7.3
 - Matplotlib
+- Anaconda
 
 # Code
 
