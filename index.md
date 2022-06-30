@@ -11,7 +11,7 @@ This application uses AI, or machine learning, and both tensorflow and tensorflo
 - PUTTY
 - Micro SD card
 
-Note: Used in the code presented below
+Note: The following below is used in the code presented below
 - Jupyter Notebook V6.4.11
 - Tensorflow V2.9.1
 - Numpy V1.23.0
