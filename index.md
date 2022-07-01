@@ -119,6 +119,9 @@ for file in os.listdir(dir_path):
     plt.show()    
 ```
 
+# Demo Night Video
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/hP2qbpfKXmQ?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 # Final Milestone
 My final milestone is modifing my environment to be more applicable for the viewing audience, renaming files according to the classification using for loop, and providing the outcomes(probability) of each classification. My original goal of this milestone was to transfer my model to tensorflow lite which was unsuccessful as I encountered many errors. To save time and resources, I continued to use my environment, jupyter notebook, as my place to present my model and programmed the additional features: renaming files and the outcomes. Renaming files was a moderate task because the logic behind it was relatively simple but caused multiple errors, which one of them being that the file already existed. I was able to correct this error by writing a psudo-code, thinking on what needs to happen and the order. This became a success as files were being written correctly without errors. The outcomes was a moderate task as well because I had coded this eariler in a testing model while developing this current model. However, the outputs of this weren't the ideal predicitons I wanted which resulted in debugging and retraining.
